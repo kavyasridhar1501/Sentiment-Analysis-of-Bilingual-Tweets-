@@ -1,4 +1,3 @@
-# Sentiment-Analysis-of-Bilingual-Tweets
+## Sentiment-Analysis-of-Bilingual-Tweets
+The project targets bilingual sentiment analysis for Tamil and English tweets. It involves classifying tweets as positive or negative sentiments using multiple classifiers and evaluating the accuracy and F1 scores. The goal is to create an accurate tool for sentiment analysis in both languages.
 
-We aim to implement a Twitter sentiment analysis model that helps to overcome the challenges of identifying the sentiments of bilingual tweets (Tamil and English).
-Classify the tweets present in the dataset into positive and negative. Implement the model for different classifiers and evaluate their performance based on accuracy and F1 scores.
